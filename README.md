@@ -2,8 +2,6 @@
 
 A modern, AI-powered analytics dashboard built for digital marketing agencies. This project showcases beautiful UI/UX design with interactive data visualizations, responsive layouts, and smooth animations.
 
-![Dashboard Preview](https://via.placeholder.com/800x400/667eea/ffffff?text=ADmyBRAND+Insights+Dashboard)
-
 ### ✨ Features
 
 ### 📊 Dashboard Components
